@@ -37,7 +37,7 @@ def main():
     if len(pixel_array[-1]) != image_size:
         pixel_array = pixel_array[:-1]
 
-    print(pixel_array)
+    # print(pixel_array) #if you want to see individual pixel values, uncomment
     # creating the pixel array makes saving the image easy, PIL-like
     png.from_array(pixel_array, 'RGB').save(str(outFile) + '.png')
 
