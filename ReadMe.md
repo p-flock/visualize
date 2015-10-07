@@ -7,6 +7,5 @@ For example:
 
 this yields a file 'pdf_bit_image.png' which looks something like this:
 
-![Image from a PDF file]
-(https://raw.github.com/p-flock/pdftest.png)
+![Image from a PDF file](/pdftest.png)
 
