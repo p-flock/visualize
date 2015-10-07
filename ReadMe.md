@@ -6,9 +6,11 @@ For example:
 `visualize.py testfile.pdf pdftest`
 
 this yields a file 'pdf_bit_image.png' which looks something like this:
+
 ![example image](/sample\ images/pdftest.png)
 
 When visualized.py is given as the file argument, this image is produced:
+
 ![Visualized.py visualized!](/visualize_visualized.png)
 
 This image is scaled to 1000% of the original, as the algorithm produces an image relative to the size of the file - so smaller files can yield very tiny results.
