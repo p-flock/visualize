@@ -3,7 +3,7 @@
 ###A simple script that reads any file as binary and outputs it as a png file.
 takes input file and a name for the output file as command-line arguments.
 For example:
-`visualize.py testfile.pdf pdftest`
+`:$python visualize.py testfile.pdf pdftest`
 
 this yields a file 'pdftest.png' which looks something like this:
 
