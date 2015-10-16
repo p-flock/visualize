@@ -27,6 +27,6 @@ Takes an visualized input file and a name for the output file as command-line ar
 
 For example:
 
-`:$python mistify.py pdftest.png tesfile.pdf`
+`:$python devisualize.py pdftest.png tesfile.pdf`
 
 This yields the original pdf before it was visualized.
